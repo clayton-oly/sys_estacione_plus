@@ -23,4 +23,4 @@ Bem-vindo ao **Estacione Plus**! Este é um sistema de reconhecimento de placas 
 
 1. Clone o repositório para sua máquina local.
    ```bash
-   git clone https://github.com/seuusuario/EstacionePlus.git
+   git clone https://github.com/clayton.oly/EstacionePlus.git
